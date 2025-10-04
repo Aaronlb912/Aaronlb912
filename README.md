@@ -2,7 +2,7 @@
 
 # Hi there, I'm Aaron Bryant 👋
 
-I'm a Software Engineer with over 7 years of experience in innovative software development. I'm committed to leveraging technology to drive organizational efficiency and ensure the creation of fault-tolerant, high-performance integrations. I'm skilled in translating business needs into technical requirements, demonstrating leadership, and staying current on technology trends.
+I'm a Software Engineer with over 5 years of experience in innovative software development. I'm committed to leveraging technology to drive organizational efficiency and ensure the creation of fault-tolerant, high-performance integrations. I'm skilled in translating business needs into technical requirements, demonstrating leadership, and staying current on technology trends.
 
 ## 🔭 I’m currently working on ...
 
@@ -28,7 +28,7 @@ I'm a Software Engineer with over 7 years of experience in innovative software d
 ## 💬 Ask me about ...
 
 - My experience in software development
-- My projects at IBM, Yes&, Jasaron Learning Institute
+- My projects at Freddie Mac, IBM, Yes&, Jasaron Learning Institute
 
 ## 📫 How to reach me: 
 
