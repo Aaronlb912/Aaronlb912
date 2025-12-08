@@ -1,5 +1,3 @@
-<img src="https://www.aaronbryantdev.com/static/media/logo.ad07ac99e06425376c46.png" width="100px">
-
 # Hi there, I'm Aaron Bryant 👋
 
 I'm a Software Engineer with over 5 years of experience in innovative software development. I'm committed to leveraging technology to drive organizational efficiency and ensure the creation of fault-tolerant, high-performance integrations. I'm skilled in translating business needs into technical requirements, demonstrating leadership, and staying current on technology trends.
